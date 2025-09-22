@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+*.DS_Store
+*.egg-info/
+.venv/
+.env
+.ipynb_checkpoints/
+
+# Data and artifacts
+/data/raw/
+/data/processed/
+/models/
+/reports/
+
+# VSCode
+.vscode/
+
+# OS
+Thumbs.db
+Desktop.ini
